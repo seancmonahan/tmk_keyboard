@@ -38,6 +38,8 @@
 # To rebuild project do "make clean" then "make all".
 #----------------------------------------------------------------------------
 
+CONSOLE_ENABLE = yes
+
 # Target file name (without extension).
 TARGET = kc60_lufa
 
