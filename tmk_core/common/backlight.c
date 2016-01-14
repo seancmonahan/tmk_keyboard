@@ -86,5 +86,5 @@ void backlight_level(uint8_t level)
 
 void backlight_action(void)
 {
-    dprintf("backlight action (tmk_core/common/backlight.c)\n");
+    //dprintf("backlight action (tmk_core/common/backlight.c)\n");
 }
