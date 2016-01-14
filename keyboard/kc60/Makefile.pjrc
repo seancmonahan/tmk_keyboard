@@ -39,7 +39,7 @@
 #----------------------------------------------------------------------------
 
 # Target file name (without extension).
-TARGET = gh60_pjrc
+TARGET = kc60_pjrc
 
 # Directory common source filess exist
 TMK_DIR = ../../tmk_core
