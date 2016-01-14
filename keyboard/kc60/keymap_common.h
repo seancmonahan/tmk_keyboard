@@ -34,7 +34,7 @@ extern const uint8_t keymaps[][MATRIX_ROWS][MATRIX_COLS];
 extern const uint16_t fn_actions[];
 
 
-/* GH60 keymap definition macro
+/* KC60 keymap definition macro
  * K2C, K31 and  K3C are extra keys for ISO
  */
 #define KEYMAP( \
